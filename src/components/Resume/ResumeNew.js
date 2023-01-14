@@ -9,7 +9,7 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  "https://raw.githubusercontent.com/BilalSardar009/portfolio/main/src/Assets/Bilal Sardar- Resume.pdf";
+  "https://raw.githubusercontent.com/BilalSardar009/portfolio/main/src/Assets/Bilal Sardar-CV.pdf";
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
