@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.fa3317e8.css",
+    "main.js": "/portfolio/static/js/main.55c5a9b9.js",
+    "static/js/787.d3befce1.chunk.js": "/portfolio/static/js/787.d3befce1.chunk.js",
+    "static/media/leaf.png": "/portfolio/static/media/leaf.ceb8f4bd415ffe9196bc.png",
+    "static/media/emotion.png": "/portfolio/static/media/emotion.17d9948d0865671f3b21.png",
+    "static/media/suicide.png": "/portfolio/static/media/suicide.8d90dc0905de8a019e4c.png",
+    "static/media/codeEditor.png": "/portfolio/static/media/codeEditor.75856811343422cdba2b.png",
+    "static/media/Bilal Sardar- Resume.pdf": "/portfolio/static/media/Bilal Sardar- Resume.c7727fde1a13a8e7f848.pdf",
+    "static/media/blog.png": "/portfolio/static/media/blog.cfe279600e3e3fb01c99.png",
+    "static/media/home-main.svg": "/portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/portfolio/static/media/chatify.37c22506c4475cc27b58.png",
+    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/portfolio/static/media/logo.1b3b30851eef295c7a9f.png",
+    "static/media/avatar.svg": "/portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/portfolio/index.html",
+    "main.fa3317e8.css.map": "/portfolio/static/css/main.fa3317e8.css.map",
+    "main.55c5a9b9.js.map": "/portfolio/static/js/main.55c5a9b9.js.map",
+    "787.d3befce1.chunk.js.map": "/portfolio/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa3317e8.css",
+    "static/js/main.55c5a9b9.js"
+  ]
+}
